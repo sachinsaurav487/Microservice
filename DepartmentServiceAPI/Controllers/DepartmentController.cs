@@ -12,6 +12,7 @@ namespace DepartmentServiceAPI.Controllers
         {
             //get all departments
             return new List<string> { "Account","Admin","Sales"};
+            //changes
         }
     }
 }
