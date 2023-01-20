@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PlXosMSibxupxmXQK9+VbWfjDmEK5O1nIb9r1isjkps=",
+  "Source": "MicroservicesDotnetCore",
+  "BasePath": "_content/MicroservicesDotnetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
